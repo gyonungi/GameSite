@@ -1,0 +1,21 @@
+@media (max-width: 735px){
+    .center{
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    .top-title{
+        font-size: 32px;
+        line-height: 39px;
+        .top-text{
+            font-size: 14px;
+            line-height: 22px;
+        }
+        .card-main{
+            display: grid;
+            align-items: center;
+        }
+    }
+    .svg-picture{
+        float: none;
+    }
+}
